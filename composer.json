@@ -1,0 +1,17 @@
+{
+  "name": "andriilive/wp-cli-media-regenerate-svg-fix",
+  "description": "`wp-cli-media-regenerate-svg-fix` plugin fix the wp-cli media regenerate error for SVG images",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/andriilive/wp-cli-media-regenerate-svg-fix",
+  "authors": [
+    {
+      "name": "DigitalAndy",
+      "homepage": "https://github.com/andriilive"
+    }
+  ],
+  "type": "wordpress-muplugin",
+  "license": "Apache-2.0",
+  "require": {
+    "php": ">=5.6"
+  }
+}
