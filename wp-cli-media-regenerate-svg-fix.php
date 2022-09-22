@@ -2,7 +2,7 @@
 /**
  * Plugin Name:  Wp cli media regenerate svg fix
  * Plugin URI:   https://github.com/andriilive/wp-cli-media-regenerate-svg-fix
- * Description:  Fix the wp-cli media regenerate error
+ * Description:  Fix the wp-cli media regenerate error for SVG images
  * Version:      0.1.0
  * Author:       DigitalAndy
  * Author URI:   https://github.com/andriilive
